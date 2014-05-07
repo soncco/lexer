@@ -1,4 +1,4 @@
-Analizador Léxico for HTML
+Léxical Analizer for HTML
 =====
 
 Simple Lexer Analizer for HTML
